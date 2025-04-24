@@ -1,2 +1,2 @@
-# Projects
-My finance projects
+# Project 1
+VaR Modeling
